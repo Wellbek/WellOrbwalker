@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "7aRz0J5tG1GrHoy6UfOCTwaku0NDkDU6Z6ETIsXv4xLreHPANu36uNn9Cd1Mo0ZKp6bBH5NWeIoxHja4z0cxJA==",
+  "success": true,
+  "projectFilePath": "E:\\Other\\LeagueOrbwalker\\WellOrbwalker\\WellOrbwalker\\WellOrbwalker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louis\\.nuget\\packages\\lowlevelinput.net\\1.36.6\\lowlevelinput.net.1.36.6.nupkg.sha512",
+    "C:\\Users\\louis\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\louis\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.20\\microsoft.netcore.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\louis\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.20\\microsoft.aspnetcore.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\louis\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.20\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LowLevelInput.Net 1.36.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "LowLevelInput.Net",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
